@@ -1,0 +1,4 @@
+[*]
+root=true
+csharp_preserve_single_line_statements = false
+insert_final_newline=false
